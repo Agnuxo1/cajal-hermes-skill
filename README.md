@@ -2,6 +2,10 @@
 
 > Generate publication-ready scientific papers directly from your Hermes Agent. Local, free, open-source.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The Hermes skill packages manuscript-section commands and reusable writing prompts around a local Ollama workflow. This gives research sessions a consistent route into drafts and reduces repeated setup of common writing tasks. The <a href="#usage">documented commands</a> are aids to authoring; reference retrieval and simulated reviewer outputs still require verification before they support a scientific publication.</sub>
+<!-- impact-note:end -->
+
 ## What This Skill Does
 
 Adds a `paper` command to Hermes that generates complete scientific papers with:
